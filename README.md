@@ -1,7 +1,7 @@
 ﻿
 Telegram bot functionality overview
 
-`          `![](Aspose.Words.891cbf96-722b-4f04-8f36-a3e41c417c16.001.png)
+![](Aspose.Words.891cbf96-722b-4f04-8f36-a3e41c417c16.001.png)
 
 ![](Aspose.Words.891cbf96-722b-4f04-8f36-a3e41c417c16.002.png)
 
